@@ -3,5 +3,5 @@ tags: gardenEntry
 ---
 Main page of published notes
 
-[[Test note]]
+[[Style Test]]
 Note ouside the published notes [[Sommerfuglebusk]]
